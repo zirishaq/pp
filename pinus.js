@@ -1,1 +1,1 @@
-console.log ("pintar")
+console.log ("pintar banget")
